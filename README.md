@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://pypi.org/project/source-distiller/"><img src="https://img.shields.io/pypi/v/source-distiller?color=blue&label=PyPI" alt="PyPI"></a>
-  <a href="https://github.com/emiroktay/source-distiller/actions"><img src="https://img.shields.io/github/actions/workflow/status/emiroktay/source-distiller/ci.yml?label=CI" alt="CI"></a>
+  <a href="https://github.com/emiroktay1/source-distiller/actions"><img src="https://img.shields.io/github/actions/workflow/status/emiroktay1/source-distiller/ci.yml?label=CI" alt="CI"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+"></a>
 </p>
@@ -137,7 +137,7 @@ source-distiller chat --index index.json
 <summary><strong>Install from source</strong></summary>
 
 ```bash
-git clone https://github.com/emiroktay/source-distiller.git
+git clone https://github.com/emiroktay1/source-distiller.git
 cd source-distiller
 pip install -e ".[pdf]"
 ```

@@ -40,9 +40,9 @@ dev = ["pytest>=7.0", "pypdf>=3.0"]
 source-distiller = "source_distiller.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/emiroktay/source-distiller"
-Repository = "https://github.com/emiroktay/source-distiller"
-Issues = "https://github.com/emiroktay/source-distiller/issues"
+Homepage = "https://github.com/emiroktay1/source-distiller"
+Repository = "https://github.com/emiroktay1/source-distiller"
+Issues = "https://github.com/emiroktay1/source-distiller/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

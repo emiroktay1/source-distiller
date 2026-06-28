@@ -5,7 +5,7 @@ Thanks for your interest in contributing.
 ## Getting Started
 
 ```bash
-git clone https://github.com/emiroktay/source-distiller.git
+git clone https://github.com/emiroktay1/source-distiller.git
 cd source-distiller
 pip install -e ".[dev]"
 ```
