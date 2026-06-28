@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Distiller"
+  short_description: "Turns messy source piles into cited evidence and conflict maps."
+  default_prompt: "Use Source Distiller to inventory the provided sources, extract task-relevant evidence, cite every source-dependent claim, identify agreement and conflicts across documents, and produce a grounded answer without being distracted by irrelevant context."
